@@ -111,8 +111,8 @@ If you have any questions or feedback, feel free to contact me:
 ## Acknowledgments
 
 - Icons used in the application were taken from 
-[Icon Source](https://www.flaticon.com/free-icons/unchecked)
-[Icon Source](https://www.flaticon.com/free-icons/unchecked)
-[Icon Source](https://www.flaticon.com/free-icons/list).
+[unchecked Icon Source](https://www.flaticon.com/free-icons/unchecked)
+[checked Icon Source](https://www.flaticon.com/free-icons/unchecked)
+[Todo list Icon Source](https://www.flaticon.com/free-icons/list).
 
 - This project was inspired by a simple to-do list tutorial.
